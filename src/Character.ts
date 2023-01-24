@@ -3,9 +3,9 @@
 // import Race from "./Races";
 // import Elf from "./Races";
 
-import Fighter from "./Fighter";
+// import Fighter from "./Fighter";
 
-export default class Character implements Fighter {
+// export default class Character implements Fighter {
 //   private _race: Race;
 //   private _archetype: Archetype;
 //   private _maxLifePoints: number;
@@ -32,4 +32,4 @@ export default class Character implements Fighter {
 // }
 
 // abstract get maxLifePoints(): number;
-}
+// }
